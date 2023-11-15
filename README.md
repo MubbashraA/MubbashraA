@@ -1,5 +1,4 @@
-👋 Hi, I’m @MubbashraA
-I’m studying Mathematics 
+👋 Hi, I’m @MubbashraA, and studying Mathematics 
 
 <!---
 MubbashraA/MubbashraA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
